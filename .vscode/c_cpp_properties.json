@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/jiwon/robot_ws/install/ublox_gps/include/**",
+        "/home/jiwon/robot_ws/install/ublox_msgs/include/**",
+        "/home/jiwon/robot_ws/install/ublox_serialization/include/**",
+        "/home/jiwon/robot_ws/install/sbg_driver/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/jiwon/robot_ws/src/honam_delivery_robot/ublox/ublox_gps/include/**",
+        "/home/jiwon/robot_ws/src/honam_delivery_robot/ublox/ublox_msgs/include/**",
+        "/home/jiwon/robot_ws/src/honam_delivery_robot/ublox/ublox_serialization/include/**",
+        "/home/jiwon/robot_ws/src/path_change/include/**",
+        "/home/jiwon/robot_ws/src/sbg_ros2_driver/include/**",
+        "/home/jiwon/robot_ws/src/ugv_sdk/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
